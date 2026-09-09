@@ -1,0 +1,25 @@
+*{
+    margin: 32px;
+    padding: 0;
+    box-sizin: boder-box;
+  }
+  h1{
+    color: red;
+    font-size: 64px;
+    text-transform: uppercase;
+  }
+  li{
+    background-color: red;
+    font-weight: bold;
+  }
+  #dias{
+    background-color: green;
+  }
+  .destaque{
+    font-size: 120px;
+    color: yellow;
+    background-color: black;
+  }
+  #foto{
+    width: 300px;
+  }
